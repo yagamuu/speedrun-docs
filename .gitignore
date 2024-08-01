@@ -1,5 +1,3 @@
 /node_modules
 .nvmrc
 .envrc
-docs/.vitepress/cache
-docs/.vitepress/dist
