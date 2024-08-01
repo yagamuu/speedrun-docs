@@ -5,6 +5,7 @@ export default defineConfig({
   title: "yagamuu's speedrun documents",
   description: "yagamuuのRTA関連のドキュメント集",
   lang: 'ja-JP',
+  base: '/speedrun-docs/',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
