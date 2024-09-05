@@ -7,6 +7,7 @@ export default defineConfig({
   lang: 'ja-JP',
   base: '/speedrun-docs/',
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  appearance: 'dark',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/icon.jpg',
@@ -17,6 +18,7 @@ export default defineConfig({
         text: 'Arc2',
         items: [
           { text: 'JP Defeat Gallarno', link: './arc2_jp_defeat_gallarno' },
+          { text: 'JP Any Glitchless(NFC)', link: './arc2_jp_any_glitchless_no_file_convert' },
           { text: 'NMG File Conversion', link: './arc2_jp_nmg_file_convert' }
         ]
       }
