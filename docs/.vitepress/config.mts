@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: 'Arc2',
         items: [
+          { text: 'JP Defeat Gallarno', link: './arc2_jp_defeat_gallarno' },
           { text: 'NMG File Conversion', link: './arc2_jp_nmg_file_convert' }
         ]
       }

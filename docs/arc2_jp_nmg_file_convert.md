@@ -971,7 +971,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 :::details シュウが先行する場合
 | ターン | ユニット | 移動先 | 向き | 行動内容 | 備考 |
 | --- | --- | --- | :---: | --- | --- |
-| 1 | <Shu/> | →→↑↑← | ↑ | 装備変更+スケープゴートLv2 | L2登録<br><Danger>魔法のりんご→復活の薬(↓○　↓↓↓↓○)</Danger> |
+| 1 | <Shu/> | →→↑↑← | ↑ | 装備変更+スケープゴートLv2 | L2登録<br><Danger>魔法のりんご→復活の薬(↓○　R1○)</Danger> |
 | 1 | <Shante/> | →↑↑ | ↓ | 待機 |  |
 :::
 
@@ -979,7 +979,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 | ターン | ユニット | 移動先 | 向き | 行動内容 | 備考 |
 | --- | --- | --- | :---: | --- | --- |
 | 1 | <Shante/> | ↑ | ↓ | 待機 |  |
-| 1 | <Shu/> | →→↑↑↑ | ↑ | 装備変更+スケープゴートLv2 | L2登録<br><Danger>魔法のりんご→復活の薬(↓○↓↓↓↓○)</Danger> |
+| 1 | <Shu/> | →→↑↑↑ | ↑ | 装備変更+スケープゴートLv2 | L2登録<br><Danger>魔法のりんご→復活の薬(↓○　R1○)</Danger> |
 :::
 
 - 以降、以下のパターンに合流
@@ -1302,6 +1302,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 ### 戦闘処理(5戦目)
 - 4
 - ヘモジー選択(1-4)
+
 | ターン | ユニット | 移動先 | 向き | 行動内容 | 備考 |
 | --- | --- | --- | :---: | --- | --- |
 | 1 | <Gogen/> | - | - | 待機 |  |
@@ -1519,7 +1520,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 | ユニット | 武器 | 防具 | 防具2 | 備考 |
 | --- | --- | --- | --- | --- |
 | <Shu/> | マシンガン | 生命の木の実 | <Danger>復活の薬→レンジャースーツ</Danger> | R1　↑◯　◯ |
-| <Tosh/> | 紅蓮 | <Danger>布の服→復活の薬</Danger> | <Danger>薬草→魔法のりんご</Danger> | R1　◯◯<br>↑◯　R1◯ |
+| <Tosh/> | 紅蓮 | <Danger>おし花の本→復活の薬</Danger> | <Danger>ゆかりの紋章→魔法のりんご</Danger> | R1　◯◯<br>↑◯　R1◯ |
 
 ## ロマリアトンネル
 

@@ -19,6 +19,7 @@ import Odon from './arc2/odon.vue'
 import Choko from './arc2/choko.vue'
 import Pandit from './arc2/pandit.vue'
 import Kobold from './arc2/kobold.vue'
+import Ghoul from './arc2/ghoul.vue'
 
 export {
   Arc,
@@ -41,5 +42,6 @@ export {
   Odon,
   Choko,
   Pandit,
-  Kobold
+  Kobold,
+  Ghoul
 }
