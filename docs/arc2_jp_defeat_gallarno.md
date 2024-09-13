@@ -1121,7 +1121,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 | ユニット | 武器 | 防具 | 防具2 | 備考 |
 | --- | --- | --- | --- | --- |
 | <Shu/> | マシンガン | <Danger>復活の薬→魔法のりんご</Danger> | 復活の薬 | ↓○　○ |
-| <Shante/> | なしorパワークラブ | <Danger>布の服+2→疾風のバンダナ</Danger> | 強力果物 | R1　○　○ |
+| <Shante/> | なしorスタッドクラブ | <Danger>布の服+2→疾風のバンダナ</Danger> | 強力果物 | R1　○　○ |
 
 ### 戦闘処理(1戦目)
 | ターン | ユニット | 移動先 | 向き | 行動内容 | 備考 |
@@ -1134,7 +1134,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 | ユニット | 武器 | 防具 | 防具2 | 備考 |
 | --- | --- | --- | --- | --- |
 | <Shu/> | マシンガン | <Danger>復活の薬→万能薬</Danger> | 復活の薬or魔法のりんご | (↑◯　◯)<br>↑○　R1　↑↑○ |
-| <Shante/> | なしorパワークラブ | <Danger>疾風のバンダナ→万能薬</Danger> | 強力果物 | R1　○　○ |
+| <Shante/> | なしorスタッドクラブ | <Danger>疾風のバンダナ→万能薬</Danger> | 強力果物 | R1　○　○ |
 
 - 部屋を出て左上の部屋に入り戦闘
 
