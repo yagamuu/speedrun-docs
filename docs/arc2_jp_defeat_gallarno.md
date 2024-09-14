@@ -1242,7 +1242,7 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 ### ▼装備変更
 | ユニット | 武器 | 防具 | 防具2 | 備考 |
 | --- | --- | --- | --- | --- |
-| <Shu/> | マシンガン | <Danger>魔法のりんご→なし</Danger> | <Danger>反撃のバンダナ→なし</Danger> | ↑△　↑△ |
+| <Shu/> | マシンガン | <Danger>魔法のりんご→なし</Danger> | <Danger>復活の薬→なし</Danger> | ↑△　↑△ |
 | <Shante/> | <Danger>なし</Danger> | <Danger>万能薬→布の服+2</Danger> | 強力果物 | R1<br>◯　↑◯<br>↑△ |
 
 - レバーを引いてイベント、<Danger>選択肢はそのまま○連打</Danger>
