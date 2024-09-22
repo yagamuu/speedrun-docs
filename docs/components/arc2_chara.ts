@@ -20,6 +20,7 @@ import Choko from './arc2/choko.vue'
 import Pandit from './arc2/pandit.vue'
 import Kobold from './arc2/kobold.vue'
 import Ghoul from './arc2/ghoul.vue'
+import Sa100 from './arc2/sa100.vue'
 
 export {
   Arc,
@@ -43,5 +44,6 @@ export {
   Choko,
   Pandit,
   Kobold,
-  Ghoul
+  Ghoul,
+  Sa100
 }

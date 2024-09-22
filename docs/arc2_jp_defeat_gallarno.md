@@ -1801,7 +1801,6 @@ import { Arc, Tosh, Poco, Gogen, Iga, Kukuru, Elc, Lieza, Shu, Shante, Diecbeck,
 | <Elc/> | フランベルジュ | <Danger>なし→生命の木の実</Danger> | なし | R1<br>↓◯　◯ |
 
 - 左から2番目のスイッチを押して回復
-  - 左から2番目のスイッチを押して回復
 - 右から2番目のスイッチを押し中央の部屋へ
 
 ### 戦闘処理(3戦目)

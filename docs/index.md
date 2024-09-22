@@ -12,6 +12,9 @@ features:
   - title: アークザラッド2 - JP Defeat Gallarno RTAチャート
     details: アーク2のガルアーノ撃破RTAチャートです。
     link: 'arc2_jp_defeat_gallarno'
+  - title: アークザラッド2 - JP Any% Glitchless RTAチャート
+    details: アーク2のバグなしコンバートなしRTAチャートです。
+    link: 'arc2_jp_any_glitchless_no_file_convert'
   - title: アークザラッド2 - JP No Major Glitchless(File Conversion) RTAチャート
     details: アーク2のコンバートあり、ゴッズ増殖バグありのRTAチャートです。
     link: 'arc2_jp_nmg_file_convert'
